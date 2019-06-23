@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Some screen shoot about project 
+![alt text](https://raw.githubusercontent.com/thanhtan1105/flutter-demo-movie-app/master/screenshoot/1.png)
